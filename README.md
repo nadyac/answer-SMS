@@ -1,5 +1,18 @@
-# language-SMS
-App that uses Twilio API to act as a question/answer tool (like Cha-Cha). Phone number for the app is: 201-596-6491
 
-## More info
-Intended to support questions from various domains. Currently I'm looking at Computer Science questions, Japanese language questions, and Spanish language questions.
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
+
+
+Hi there! Welcome to Cloud9 IDE!
+
+To get you started, create some files, play with the terminal,
+or visit http://docs.c9.io for our documentation.
+If you want, you can also go watch some training videos at
+http://www.youtube.com/user/c9ide.
+
+Happy coding!
+The Cloud9 IDE team
