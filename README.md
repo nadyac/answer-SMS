@@ -1,8 +1,9 @@
 
-  # answer-SMS
-  A Twilio-based app that acts like question-answer tool over SMS.
+# answer-SMS
+A Twilio-based app that acts like question-answer tool over SMS. The number for the app is 201-596-6491.
   
-  ## Project is currently hosted on Cloud9:
+### Project is currently hosted on:
+  
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
