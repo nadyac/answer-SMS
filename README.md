@@ -1,4 +1,8 @@
 
+  # answer-SMS
+  A Twilio-based app that acts like question-answer tool over SMS.
+  
+  ## Project is currently hosted on Cloud9:
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -6,13 +10,5 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+## Features
+The app will have modules for answering questions about specific topics. Right now I'm focusing on building modules to answer questions in the domain of Computer Science, Japanese language, and Spanish language. 
